@@ -1,37 +1,105 @@
-## Welcome to GitHub Pages
+#   WELCOME TO DE DARKNET
 
-You can use the [editor on GitHub](https://github.com/Dev1ls-Net/dev1ls.ga/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
+<iframe src="//giphy.com/embed/3og0ItTQ85aWPAv32g" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### Esta es la web designada a todos los servicios que se brindan gratuitamente en #IRCBot #IRCayuda #ElCorito y #Dominicanos, todos canales de la red ChatHispano.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tenemos Bots y ZNC disponible bajo normas y requisitos establecidos por los administradores de estos servicios.
 
-```markdown
-Syntax highlighted code block
+### Porfavor sea paciente y trate de respetar los medios establecidos para dichos servicios ( recuerde que son gratuitos )
 
-# Header 1
-## Header 2
-### Header 3
+### Espero que podamos colaborarle.
 
-- Bulleted
-- List
+#### Att: Dev1ls
 
-1. Numbered
-2. List
+---
+ 
 
-**Bold** and _Italic_ and `Code` text
+# Bots de #IRCBOTS
 
-[Link](url) and ![Image](src)
-```
+<center><img src="http://2.bp.blogspot.com/-5Ih3NRs9ROA/VJI7TPwI_xI/AAAAAAAAALY/UHOUuJ-hafg/s1600/How%2Bto%2Binstall%2BEggdrop.png"></center>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+## Que es un IRC Bot:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dev1ls-Net/dev1ls.ga/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Un bot de chat de retransmisión por Internet (bot IRC) es un tipo de aplicación que realiza tareas automatizadas dentro de una sala de chat o canal basado en IRC. Permite la realización de varias tareas específicas de canal en nombre del usuario y normalmente se configura como un operador de canal. 
+                                
+## Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS Solicitelo via este Fomulario:
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+# Solicitud de Bot:
+<form action="https://formspree.io/dominicanoshispanos@gmail.com"
+      method="POST">
+    <input type="text" name="Nick" value="NiCK">
+    <input type="email" name="Correo" value="Correo Electronico">    
+    <input type="text" name="Solicitud" value="Tu Solicitud">
+    <input type="text" name="Canal" value="Canal">
+    <input type="submit" value="Enviar">
+</form>
+
+---
+
+Solicitud tendra respuesta de 1 a 3 dias.
+
+---
+
+# ZNC Bouncer Service
+
+<center><img src="http://www.clker.com/cliparts/5/1/b/d/11954315391526924611beastie_freebsd_daemon_r_02.svg.med.png"></center>
+
+---
+
+## Que es una ZNC:
+
+#### Una ZNC nos permite transmitir el tráfico y las conexiones como si fuera un proxy permitiéndonos ocultar la fuente original de la conexión del usuario, proporcionando privacidad, así como la capacidad para enrutar el tráfico a través de un lugar específico útil si estamos en un dominio, proxy o servidor que bloquea las salidas al IRC.
+
+
+## Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registrado y mas de 3 meses de vigencia y Motivo por que quieres tu ZNC.
+
+
+### links de Servicios:
+[Dev1ls ZNC Web Administrator](http://Dev1ls.hopto.org:31337)
+
+## Solicitud Solo via el Canal #IRCBot:
+
+---		
+# Solicitud de ZNC:
+<form action="https://formspree.io/dominicanoshispanos@gmail.com"
+      method="POST">
+    <input type="text" name="Nick del ZNC" value="NiCK">
+    <input type="email" name="Correo" value="Correo Electronico">    
+    <input type="text" name="Razon de uso" value="Tu Solicitud">
+    <input type="text" name="Canal" value="Canal">
+    <input type="submit" value="Enviar">
+</form>
+
+---
+
+Solicitud tendra respuesta de 1 a 3 dias.
+
+---
+
+
+## Tambien Solicitar su BOT  o ZNC via canal #IRCBot en el siguiente webchat:
+
+---
+
+<iframe src="https://kiwiirc.com/client/irc.chathispano.com/?nick=znc|?&theme=basic#IRCBot" style="border:0; width:100%; height:450px;"></iframe>
+
+---
+
+          
+# Radio ElCorito
+
+---
+
+## Radio Variada Rock/Electronica/jazz/hiphop disponible en la web y enfocada en el chat #ElCorito en Chathispano.
+
+---  
+<audio controls autoplay="autoplay"><source src="http://50.22.218.73:32388/;stream.mp3" type="audio/mp3">Your browser does not support the audio element.</audio>
+
